@@ -33,18 +33,18 @@ Collab0x’s global and vibrant community drives the success of the Protocol. Jo
                         
                         </div>
                          
-                        <p style={{fontSize:'1rem'}}>Ask questions and engage the Community </p>
+                        <p style={{fontSize:'0.8rem'}}>Ask questions and engage the Community </p>
                     </div>
                     <div>
                         <div
                         className={styles.social_top}
-                        style={{border:'none',width:"90%"}}
+                        style={{border:'none',width:"50%"}}
                         >
                         <FaTwitter/>
                         Twitter
                         </div>
                         
-                        <p  style={{fontSize:'1rem'}}>follow the latest from our Twitter.</p>
+                        <p  style={{fontSize:'0.8rem'}}>follow the latest from our Twitter.</p>
                         </div>
                     </div>
                     <div>

@@ -59,10 +59,10 @@
 
 @media screen and (max-width:700px) {
     .middle_section{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     .top_section p{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         margin-bottom: -20px;
     }
     .middle_section div{
@@ -71,7 +71,7 @@
 
     }
     .middle_section div div{
-        width:90%
+        width:100%;
     }
     .top_section h1{
         font-size:2rem;
