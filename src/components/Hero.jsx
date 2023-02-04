@@ -104,7 +104,9 @@ const Hero = () => {
             <p>trustlessly.</p>
             <p>onChain.</p>
         </div>
+        <button className={styles.launch_app}>Launch App</button>
         </div>
+        
         
   </div>
     

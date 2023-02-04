@@ -56,3 +56,25 @@
 .social_top{
     display: flex;
 }
+
+@media screen and (max-width:700px) {
+    .middle_section{
+        font-size: 1.2rem;
+    }
+    .top_section p{
+        font-size: 1.2rem;
+        margin-bottom: -20px;
+    }
+    .middle_section div{
+    flex-direction: column;   
+    align-items:center;
+
+    }
+    .middle_section div div{
+        width:90%
+    }
+    .top_section h1{
+        font-size:2rem;
+       
+    }
+}
