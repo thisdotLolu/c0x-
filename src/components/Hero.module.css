@@ -88,8 +88,7 @@ canvas{
 
 }
 
-@media screen and (max-height:700px) {
-    canvas{
-        width: 105vw!important;
-    }
-}
+
+@media (min-height: 0px) and (max-height: 700px) and (min-width: 0px) and (max-width: 380px) { canvas{
+    width: 105vw!important;
+} }

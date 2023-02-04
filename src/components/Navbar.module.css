@@ -49,4 +49,19 @@
         display: none;
     }
 }
-
+@media screen and (min-width:700px) and (max-width:950px) {
+    .inner{
+        justify-content: space-evenly;
+        /* width: 100vw; */
+    }
+    .nav_link{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .launch_app{
+        font-size:1rem;
+        padding-left: 40px;
+        padding-right: 40px;
+        width: 200px;
+    }
+}
