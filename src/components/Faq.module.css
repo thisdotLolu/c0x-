@@ -1,0 +1,37 @@
+.container{
+    background-color: #17171A;
+    color: white;
+}
+
+
+.inner{
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    padding: 40px;
+}
+
+.header{
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    margin-right: 20px; 
+}
+.header h2{
+    font-size: 3rem;
+}
+.accordion_container{
+    width: 100%;
+}
+
+.item_text{
+    font-size: 1.2rem;
+    height: 70px;
+    font-family: Poppins, sans-serif;
+}
+.item_response{
+    font-size: 1.2rem;
+    font-family: Poppins, sans-serif;
+}
+
+
